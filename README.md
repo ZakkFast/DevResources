@@ -1,19 +1,20 @@
 # A Compendium of Resources For the Full Stack Dev
 
 # Intro
-<pre>
-Let's be honest. This stuff can be rough. There's is a lot to learn when you are first starting out.
-The good news is that there are plenty of amazing resources at you finger tips. I've decided to keep 
-a log of all the videos, forum posts, and tech blogs that I have found helpful in my dev journey so 
-far. I plan to keep this updated from time to time as I learn about new tech. So without further ado,
+
+Let's be honest. This stuff can be rough. There's is a lot to learn when you are first starting out.<br>
+The good news is that there are plenty of amazing resources at you finger tips. I've decided to keep <br>
+a log of all the videos, forum posts, and tech blogs that I have found helpful in my dev journey so <br>
+far. I plan to keep this updated from time to time as I learn about new tech. So without further ado,<br>
 check out the list below and start building amazing things!
-</pre>
+
 <hr>
 
 ## Contribution
-<pre>
-This is a resources for all Devs, and the best resource any of us have is each other. Feel free to contribute in any way you see fit. Please be sure to provide links and keep the content relevant. Any help maintaining this is greatly appreciated!
-</pre>
+
+This is a resources for all Devs, and the best resource any of us have is each other. Feel free to<br> contribute in any way you see fit. Please be sure to provide links and keep the content relevant.<br> 
+Any help maintaining this is greatly appreciated!<br>
+
 <hr>
 
 # General HTML and CSS
