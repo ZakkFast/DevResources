@@ -2,10 +2,10 @@
 
 # Intro
 <pre>
-Let's be honest. This stuff can be rough. There's is a lot to learn when you are first starting out.<br>
-The good news is that there are plenty of amazing resources at you finger tips. I've decided to keep <br>
-a log of all the videos, forum posts, and tech blogs that I have found helpful in my dev journey so <br>
-far. I plan to keep this updated from time to time as I learn about new tech. So without further ado,<br>
+Let's be honest. This stuff can be rough. There's is a lot to learn when you are first starting out.
+The good news is that there are plenty of amazing resources at you finger tips. I've decided to keep 
+a log of all the videos, forum posts, and tech blogs that I have found helpful in my dev journey so 
+far. I plan to keep this updated from time to time as I learn about new tech. So without further ado,
 check out the list below and start building amazing things!
 </pre>
 <hr>
