@@ -122,7 +122,7 @@ This video will help you get starting on testing!
 
 # Express.js
 
-- <a href='https://www.youtube.com/watch?v=L72fhGm1tfE'>Express.JS with Brad Traversy (Video)</a><br>
+- <a href='https://www.youtube.com/watch?v=L72fhGm1tfE'>Express.js with Brad Traversy (Video)</a><br>
 This is personally the video I used to learn about Express. Brad does a fantastic job of helping you get all your tools setup and running code on servers in no time.
 
 <hr>
