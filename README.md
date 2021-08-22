@@ -85,6 +85,19 @@ If videos are more you style here is a great one by Mosh!
 In this video Brad goes voer Callbacks, Promises, and Async Await. A great resource!
 <hr>
 
+# jQuery
+
+- <a href='https://www.youtube.com/watch?v=3nrLc_JOF7k'>Crash Course on Jquery by Brad Traversy (Video)</a><br>
+Fantastic mini series by Brad going over jsut about everything in jQuery. Before this video I hated jQuery, now its all I want to write in.
+
+- <a href='https://www.w3schools.com/jquery/default.asp'>W3 Schools jQuery</a><br>
+This is just about everything you'll ever need for jQuery. It's a resource I used a lot in the beginning.  
+
+- <a href='https://websitesetup.org/jquery-cheat-sheet/'>A cheet sheet for jQuery. (Article)</a><br>
+Once you get the basic this is a great resource to look thing up as youre coding!
+
+<hr>
+
 # Node.js
 
 ### General
