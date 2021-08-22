@@ -1,16 +1,5 @@
 # A Compendium of Resources For the Full Stack Dev
 
-# Table of Contents
-  
-  - [Intro](#Intro)
-  - [General HTML and CSS](#GeneralHTMLandCSS)
-  - [JavaScript](#JS)
-  - [Jquery](#Jquery)
-  - [Node](#Node)
-  - [Express](#Express)
-  - [Build Tutorials](#BuildTutorials)
-
-
 # Intro
 <pre>
 Let's be honest. This stuff can be rough. There's is a lot to learn when you are first starting out.<br>
