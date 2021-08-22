@@ -10,6 +10,12 @@ check out the list below and start building amazing things!
 </pre>
 <hr>
 
+## Contribution
+<pre>
+This is a resources for all Devs, and the best resource any of us have is each other. Feel free to contribute in any way you see fit. Please be sure to provide links and keep the content relevant. Any help maintaining this is greatly appreciated!
+</pre>
+<hr>
+
 # General HTML and CSS
 
 - <a href='https://www.w3schools.com/html/'>W3 Schools HTML (Article)</a><br>
@@ -32,6 +38,8 @@ Brad's video on CSS has saved me so much headache it's not even funny. The video
 
 <a name='#JS'></a>
 
+<hr>
+
 # JavaScript
 
 ### The Basics!
@@ -40,6 +48,7 @@ This is the video that started it all for me. Brad keeps it pretty easy to under
 
 - <a href='https://www.youtube.com/watch?v=hdI2bqOjy3c&t=1533s'>JS in an Hour by Mosh (Video)</a><br>
 This is Mosh's Udemy course spliced into little chunks, but don't let that fool you. There is plenty of content, and Mosh does a fantasic job of putting it into easy to grasp terms.
+
 ### DOM Manipulation (Document Object Model)
 
 - <a href='https://www.youtube.com/watch?v=0ik6X4DJKCc&t=1700s'>DOM Crash Course by Brad Traversy (Video)</a><br>
@@ -56,16 +65,28 @@ FreeCodeCamp has tons of free resources and heres a fantastic one. It's a pretty
 - <a href='https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/'>Intro to OOP (Article)</a><br>
 A pretty simple article outlying the basics of OOP in Javascript with Examples!
 
-- <a href='https://www.youtube.com/watch?v=PFmuCDHHpwk'>OOP in JS made Super Simple with mosh (Video)</a><br>
+- <a href='https://www.youtube.com/watch?v=PFmuCDHHpwk'>OOP in JS made Super Simple with Mosh (Video)</a><br>
 Mosh starts out with some really powerful slides here to teach you the theory of OOP in a simple and understandable way, and then moves onto some amazing coding examples!
 
-- <a href='https://www.youtube.com/watch?v=vDJpGenyHaA'>JS OPP Crash Course with Brad Traversy (Video)</a><br>
+- <a href='https://www.youtube.com/watch?v=vDJpGenyHaA'>JS OPP Crash Course (ES5 & ES6) with Brad Traversy (Video)</a><br>
 One of his shorter videos, but a great one none the less. After watch it I had a pretty solid understand of OOP
 
+### Constructors
+- <a href='https://www.javascripttutorial.net/javascript-constructor-function/'>JS Constructor Function (Article)</a><br>
+A short and sweet article to get you caught up on constructors!
+
+- <a href='https://www.youtube.com/watch?v=23AOrSN-wmI'>Constructors with Mosh (Video)</a><br>
+If videos are more you style here is a great one by Mosh!
+
+### Async
+
+- <a href='https://www.youtube.com/watch?v=PoRJizFvM7s'>Async JS Crash Course with Brad Traversy (Video)</a><br>
+In this video Brad goes voer Callbacks, Promises, and Async Await. A great resource!
 <hr>
 
-# Node JS
+# Node.js
 
+### General
 - <a href='https://www.youtube.com/watch?v=Oe421EPjeBE'>FreeCodeCamp Node and Express (Video)</a><br>
 Spoiler warning, this video is 8 hours long and touches Express as well. But if you can get through it you'll be a master of Node and Express in no time!
 
@@ -75,8 +96,30 @@ Yep, yet another Brad video. But what can I say. The man is a wizard and has a w
 - <a href='https://www.youtube.com/watch?v=TlB_eWDSMt4'>Node by Mosh (Video)</a><br>
 Another one of Mosh's courses condensed into a 1 hour video. While he doesnt go over everything in detail, its a great starting point!
 
+- <a href='https://www.w3schools.com/nodejs/'>W3 Schools Node.js (Article)</a><br>
+This is one of the best places to look up info on Node.js. Just like before, there are examples, tutorials, and even quizes. Fantastic resource.
 
+### Jest
+
+- <a href='https://www.youtube.com/watch?v=7r4xVDI2vho'>Jest Crash Course with Brad Traversy (Video)</a><br>
+This video will help you get starting on testing!
+
+<hr>
+
+# Express.js
+
+- <a href='https://www.youtube.com/watch?v=L72fhGm1tfE'>Express.JS with Brad Traversy (Video)</a><br>
+This is personally the video I used to learn about Express. Brad does a fantastic job of helping you get all your tools setup and running code on servers in no time.
+
+<hr>
 
 # Build Tutorials
-- <a href='https://www.youtube.com/watch?v=j59qQ7YWLxw'>Build a Calculator with Web Dev Simplified</a><br>
+- <a href='https://www.youtube.com/watch?v=j59qQ7YWLxw'>Build a Calculator with Web Dev Simplified (Video)</a><br>
 A quick and easy video that will have you build a stylized and fully functional Calculator app!
+<hr>
+
+# Contact
+
+Email: ZakkFastPro@gmail.com<br>
+Twitter: https://Twitter.com/ZakkFast<br>
+GitHub: https://github.com/ZakkFast<br>
