@@ -66,7 +66,7 @@ One of his shorter videos, but a great one none the less. After watch it I had a
 
 # Node JS
 
-- <a href='https://www.youtube.com/watch?v=Oe421EPjeBE'></a>FreeCodeCamp Node and Express (Video)<br>
+- <a href='https://www.youtube.com/watch?v=Oe421EPjeBE'>FreeCodeCamp Node and Express (Video)</a><br>
 Spoiler warning, this video is 8 hours long and touches Express as well. But if you can get through it you'll be a master of Node and Express in no time!
 
 - <a href='https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=1250s'>Node with Brad Traversy (Video)</a><br>
