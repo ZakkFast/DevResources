@@ -127,6 +127,11 @@ This is personally the video I used to learn about Express. Brad does a fantasti
 
 <hr>
 
+<hr>
+# Misc
+
+- <a href='https://www.youtube.com/watch?v=PiX6W3TnuSA'>Video to help you install Heroku CLI on your machine</a><br>
+
 # Build Tutorials
 - <a href='https://www.youtube.com/watch?v=j59qQ7YWLxw'>Build a Calculator with Web Dev Simplified (Video)</a><br>
 A quick and easy video that will have you build a stylized and fully functional Calculator app!
