@@ -128,6 +128,7 @@ This is personally the video I used to learn about Express. Brad does a fantasti
 <hr>
 
 <hr>
+
 # Misc
 
 - <a href='https://www.youtube.com/watch?v=PiX6W3TnuSA'>Video to help you install Heroku CLI on your machine</a><br>
