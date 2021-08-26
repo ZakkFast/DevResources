@@ -127,16 +127,30 @@ This is personally the video I used to learn about Express. Brad does a fantasti
 
 <hr>
 
+# MySQL 
+
+- <a href='https://dev.mysql.com/doc/'>The Documentation for MySQL (Article)</a>This can be used to get everything set up, and help you on your way.<br>
+
+- <a href='https://www.youtube.com/watch?v=7S_tz1z_5bA'>MySQL Tutorial for Beginners with Most (Video) </a>Mosh's crash course on MySql, he starts by explaining what databases are, how we can interact with them, and so much more with helpful slides. Highly recommend. Note, the link to the DB Mosh uses in this tutorial is broke, shout out to Sarah for finding it <a href='https://codewithmosh.com/courses/complete-sql-mastery/lectures/9590092'>here</a>. Scroll down to the bottom and you will find the 'SQL Course Materials.zip with all that you need.<br>
+
 <hr>
 
 # Misc
 
-- <a href='https://www.youtube.com/watch?v=PiX6W3TnuSA'>Video to help you install Heroku CLI on your machine</a><br>
+- This <a href='https://www.youtube.com/watch?v=PiX6W3TnuSA'>video</a> to help you install Heroku CLI on your machine.<br>
+
+- <a href='https://stackoverflow.com/questions/17325408/mysql-workbench-dark-theme/60920577#60920577'>MySQL Workbench Dark Theme</a> Here's way to get a dark them for your MySql Workbench for those who prefer the Dark Side.
 
 # Build Tutorials
 - <a href='https://www.youtube.com/watch?v=j59qQ7YWLxw'>Build a Calculator with Web Dev Simplified (Video)</a><br>
 A quick and easy video that will have you build a stylized and fully functional Calculator app!
 <hr>
+
+# Shoutouts
+
+Creating a section to give a shout out to those who have helped me put this together by sharing content, feedback, and more.
+
+- <a href='https://github.com/SJROHRXD'>Sarah</a> has been a huge help helping me comb through material, and fill in the missing blanks!<br>
 
 # Contact
 
