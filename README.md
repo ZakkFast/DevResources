@@ -146,7 +146,7 @@ This is personally the video I used to learn about Express. Brad does a fantasti
 A quick and easy video that will have you build a stylized and fully functional Calculator app!
 <hr>
 
-# Shoutouts
+# Contributors
 
 Creating a section to give a shout out to those who have helped me put this together by sharing content, feedback, and more.
 
