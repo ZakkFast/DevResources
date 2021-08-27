@@ -129,6 +129,8 @@ This is personally the video I used to learn about Express. Brad does a fantasti
 
 # MySQL 
 
+- <a href='https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide'>A guide to installing MySQL</a>Here is a guide with pictures you can use to install MySQL on Windows or Mac.<br>
+
 - <a href='https://dev.mysql.com/doc/'>The Documentation for MySQL (Article)</a>This can be used to get everything set up, and help you on your way.<br>
 
 - <a href='https://www.youtube.com/watch?v=7S_tz1z_5bA'>MySQL Tutorial for Beginners with Most (Video) </a>Mosh's crash course on MySql, he starts by explaining what databases are, how we can interact with them, and so much more with helpful slides. Highly recommend. Note, the link to the DB Mosh uses in this tutorial is broke, shout out to Sarah for finding it <a href='https://codewithmosh.com/courses/complete-sql-mastery/lectures/9590092'>here</a>. Scroll down to the bottom and you will find the 'SQL Course Materials.zip with all that you need.<br>
